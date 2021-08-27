@@ -2,7 +2,7 @@ package main
 
 import (
 	"jwt-gin/controller"
-	"jwt-gin/service.go"
+	"jwt-gin/service"
 	"net/http"
 
 	"github.com/gin-gonic/gin"

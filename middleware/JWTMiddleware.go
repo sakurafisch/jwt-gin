@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"jwt-gin/service.go"
+	"jwt-gin/service"
 
 	"github.com/gin-gonic/gin"
 	"github.com/golang-jwt/jwt"

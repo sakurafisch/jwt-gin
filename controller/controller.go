@@ -2,7 +2,7 @@ package controller
 
 import (
 	"jwt-gin/dto"
-	"jwt-gin/service.go"
+	"jwt-gin/service"
 
 	"github.com/gin-gonic/gin"
 )
